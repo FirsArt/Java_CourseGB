@@ -9,11 +9,18 @@
 //Студент Петрова получил 4 по предмету Информатика.
 //Студент Краснов получил 5 по предмету Физика.
 //==========================================================================
+<<<<<<< HEAD
+=======
+
+>>>>>>> 405a98e7657fc1a06cb0cb33840fb6e9b3407170
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 405a98e7657fc1a06cb0cb33840fb6e9b3407170
 
 public class task3 {
     public static void main(String[] args) throws Exception {
